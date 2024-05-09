@@ -55,7 +55,7 @@ React, Redux, Visual Studio Code
 In order to use Front-end project:
 
 ```
-git clone https://github.com/newtonah0/react-front-end.git
+git clone https://github.com/m00h0/react-front-end.git
 cd hello-react-front-end
 ```
 
