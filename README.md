@@ -62,7 +62,7 @@ cd hello-react-front-end
 In order to use the Back-end API:
 
 ```
-git clone https://github.com/newtonah0/rails-back-end.git
+git clone https://github.com/m00h0/rails-back-end.git
 cd hello-rails-back-end
 ```
 
