@@ -84,7 +84,7 @@ npm start
 
 ### Back-end API <a name="backend"></a>
 
-Back-end API [Link](https://github.com/newtonah0/rails-back-end.git)
+Back-end API [Link](https://github.com/m00h0/rails-back-end.git)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
