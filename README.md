@@ -92,7 +92,7 @@ Back-end API [Link](https://github.com/m00h0/rails-back-end.git)
 ## 👥 Author <a name="author"></a>
 
 👤 **Ahmed**
-- GitHub: [@newtonah0](https://github.com/m00h0)
+- GitHub: [@m00h0](https://github.com/m00h0)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
