@@ -15,7 +15,6 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Back-end API](#backend)
-  <!-- - [Run tests](#run-tests) -->
 - [👥 Author](#author)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
